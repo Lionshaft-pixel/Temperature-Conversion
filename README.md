@@ -3,6 +3,9 @@
 A simple temperature converter built while learning JavaScript.
 It allows users to convert temperatures between **Celsius (℃)** and **Fahrenheit (℉)** using a small interactive UI.
 
+![screenshot](https://github.com/Lionshaft-pixel/Temperature-Conversion/blob/main/screenshot.jpg)
+
+
 ## Features
 
 * Convert **Celsius → Fahrenheit**
